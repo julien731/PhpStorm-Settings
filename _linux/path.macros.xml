@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="WPAS_PATH" value="D:/development/VVV/www/wordpress-develop/src/wp-content/plugins/awesome-support" />
+  </component>
+</application>
