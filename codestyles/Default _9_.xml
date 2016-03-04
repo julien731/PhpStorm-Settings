@@ -21,5 +21,8 @@
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
