@@ -1417,6 +1417,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PHP_FUNCTION">
+      <value />
+    </option>
+    <option name="PHP_FUNCTION_CALL">
+      <value />
+    </option>
     <option name="PHP_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="f0c674" />
@@ -1428,6 +1434,12 @@
       <value>
         <option name="FOREGROUND" value="81a2be" />
       </value>
+    </option>
+    <option name="PHP_INSTANCE_METHOD">
+      <value />
+    </option>
+    <option name="PHP_INTERFACE">
+      <value />
     </option>
     <option name="PHP_KEYWORD">
       <value>
@@ -1455,6 +1467,9 @@
         <option name="FOREGROUND" value="81a2be" />
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value />
     </option>
     <option name="PHP_STRING">
       <value>
