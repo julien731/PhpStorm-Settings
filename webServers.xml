@@ -28,6 +28,9 @@
       <webServer id="e08b1bc4-db1b-4774-b937-e8c75df79e15" name="Chassis" url="http://vagrant.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="c3f45981-462c-4ee9-bb09-2154ff6d02e2" name="Jacqques Liabeuf" url="http://jacquesliabeuf.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
