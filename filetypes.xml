@@ -5,6 +5,7 @@
       <mapping pattern="Gruntfile" type="JSON" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.old" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
