@@ -1456,9 +1456,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PHP_SCRIPTING_BACKGROUND">
-      <value />
-    </option>
     <option name="PHP_STRING">
       <value>
         <option name="FOREGROUND" value="b5bd68" />
