@@ -30,8 +30,16 @@
           <option name="url" value="git@github.com:Awesome-Support/Awesome-Support.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:N2Clic/dba-components.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:N2Clic/dba-wp-mobile.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev/vvv/www/meko-clinic/htdocs/wp-content/themes" />
+    <option name="cloneParentDir" value="$USER_HOME$/dev/vvv/www/destinationbeauty/htdocs/wp-content/themes" />
   </component>
 </application>
