@@ -31,6 +31,9 @@
       <webServer id="c3f45981-462c-4ee9-bb09-2154ff6d02e2" name="Jacqques Liabeuf" url="http://jacquesliabeuf.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="6fa100dd-18d3-493a-9ae4-d8e8426a2f42" name="scotchbox" url="http://scotchbox">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
