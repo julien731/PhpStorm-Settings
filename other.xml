@@ -50,6 +50,12 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="6.1.0" last-modified="1462461634000" />
+      <npm-package value="C:\Program Files\nodejs\node_modules\npm" />
+    </local-interpreter>
+  </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
