@@ -7,9 +7,6 @@
       <webServer id="e1050c66-bec5-4921-9941-c41298ab6ed7" name="scotchbox" url="http://192.168.33.10/">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="e502427e-106d-4656-90f9-4f106fe031bc" name="scotchbox (1)" url="http://192.168.33.10">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
       <webServer id="4b25b3cc-fbc8-4f18-8ca6-6a4fcded8503" name="getawesomesupport.local" url="http://getawesomesupport.local/">
         <fileTransfer accessType="LOCAL" />
       </webServer>
@@ -30,9 +27,6 @@
       </webServer>
       <webServer id="c3f45981-462c-4ee9-bb09-2154ff6d02e2" name="Jacqques Liabeuf" url="http://jacquesliabeuf.dev">
         <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="6fa100dd-18d3-493a-9ae4-d8e8426a2f42" name="scotchbox" url="http://scotchbox">
-        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
   </component>
