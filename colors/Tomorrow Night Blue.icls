@@ -591,22 +591,10 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_BRACES">
-      <value />
-    </option>
-    <option name="DEFAULT_BRACKETS">
-      <value />
-    </option>
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="cc7832" />
       </value>
-    </option>
-    <option name="DEFAULT_DOT">
-      <value />
-    </option>
-    <option name="DEFAULT_PARENTHS">
-      <value />
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
@@ -1285,9 +1273,6 @@
         <option name="BACKGROUND" value="3f8e" />
       </value>
     </option>
-    <option name="MESSAGE_ARGUMENT">
-      <value />
-    </option>
     <option name="METHOD_CALL_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bbdaff" />
@@ -1338,9 +1323,6 @@
       <value>
         <option name="FOREGROUND" value="ffc58f" />
       </value>
-    </option>
-    <option name="OC.PROPERTY">
-      <value />
     </option>
     <option name="OC.SELFSUPERTHIS">
       <value>
@@ -1763,9 +1745,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="RHTML_SCRIPTING_BACKGROUND_ID">
-      <value />
-    </option>
     <option name="RHTML_SCRIPTLET_END_ID">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -1781,9 +1760,6 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="ff9da4" />
       </value>
-    </option>
-    <option name="RUBY_COMMA">
-      <value />
     </option>
     <option name="RUBY_COMMENT">
       <value>
@@ -1864,9 +1840,6 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="RUBY_LOCAL_VAR_ID">
-      <value />
-    </option>
     <option name="RUBY_METHOD_NAME">
       <value>
         <option name="FOREGROUND" value="bbdaff" />
@@ -1905,9 +1878,6 @@
         <option name="FOREGROUND" value="ff9da4" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="RUBY_SEMICOLON">
-      <value />
     </option>
     <option name="RUBY_SPECIFIC_CALL">
       <value>

@@ -584,19 +584,10 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_BRACES">
-      <value />
-    </option>
-    <option name="DEFAULT_BRACKETS">
-      <value />
-    </option>
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="cc7832" />
       </value>
-    </option>
-    <option name="DEFAULT_DOT">
-      <value />
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
@@ -608,9 +599,6 @@
       <value>
         <option name="FOREGROUND" value="f99157" />
       </value>
-    </option>
-    <option name="DEFAULT_PARENTHS">
-      <value />
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
@@ -1313,9 +1301,6 @@
         <option name="BACKGROUND" value="515151" />
       </value>
     </option>
-    <option name="MESSAGE_ARGUMENT">
-      <value />
-    </option>
     <option name="METHOD_CALL_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="6699cc" />
@@ -1366,9 +1351,6 @@
       <value>
         <option name="FOREGROUND" value="f99157" />
       </value>
-    </option>
-    <option name="OC.PROPERTY">
-      <value />
     </option>
     <option name="OC.SELFSUPERTHIS">
       <value>
@@ -1820,23 +1802,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="RHTML_EXPRESSION_END_ID">
-      <value />
-    </option>
-    <option name="RHTML_EXPRESSION_START_ID">
-      <value />
-    </option>
     <option name="RHTML_OMIT_NEW_LINE_ID">
       <value>
         <option name="FOREGROUND" value="f2777a" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="RHTML_SCRIPTING_BACKGROUND_ID">
-      <value />
-    </option>
-    <option name="RHTML_SCRIPTLET_END_ID">
-      <value />
     </option>
     <option name="RHTML_SCRIPTLET_START_ID">
       <value>
@@ -1848,9 +1818,6 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="f2777a" />
       </value>
-    </option>
-    <option name="RUBY_COMMA">
-      <value />
     </option>
     <option name="RUBY_COMMENT">
       <value>
@@ -1937,9 +1904,6 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="RUBY_LOCAL_VAR_ID">
-      <value />
-    </option>
     <option name="RUBY_METHOD_NAME">
       <value>
         <option name="FOREGROUND" value="6699cc" />
@@ -1975,9 +1939,6 @@
         <option name="FOREGROUND" value="f99157" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="RUBY_SEMICOLON">
-      <value />
     </option>
     <option name="RUBY_SPECIFIC_CALL">
       <value>
