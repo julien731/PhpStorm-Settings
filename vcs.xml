@@ -102,6 +102,10 @@
           <option name="url" value="git@git.toptal.com:Julien-Liabeuf/julien-liabeuf.git&lt;" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:betteroptin/betteroptin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\dev\vvv\www\plugins\htdocs\wp-content\plugins" />
