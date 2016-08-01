@@ -28,6 +28,9 @@
       <webServer id="c3f45981-462c-4ee9-bb09-2154ff6d02e2" name="Jacqques Liabeuf" url="http://jacquesliabeuf.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="3cfae181-b96a-4039-bceb-4928bf933c2f" name="VV Tanny" url="http://tanny.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
