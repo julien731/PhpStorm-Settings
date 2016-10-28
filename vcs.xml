@@ -126,6 +126,10 @@
           <option name="url" value="git@bitbucket.org:awesomesupport/private-credentials.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:awesomesupport/guest-tickets.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\dev\vvv\www\awesome-support\htdocs\wp-content\plugins" />
