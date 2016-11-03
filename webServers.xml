@@ -31,6 +31,9 @@
       <webServer id="3cfae181-b96a-4039-bceb-4928bf933c2f" name="VV Tanny" url="http://tanny.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="11102a1a-8652-4090-93c5-5addda804bfa" name="Awesome Support Dev" url="http://awesome-support.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
