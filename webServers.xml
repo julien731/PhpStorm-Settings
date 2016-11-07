@@ -34,6 +34,9 @@
       <webServer id="11102a1a-8652-4090-93c5-5addda804bfa" name="Awesome Support Dev" url="http://awesome-support.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="9c4ba04c-d73d-472a-b05c-3f1a4048630f" name="Plugins Dev" url="http://plugins.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
