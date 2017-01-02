@@ -146,8 +146,12 @@
           <option name="url" value="git@github.com:julien731/julien-liabeuf-theme.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:tannytann/me.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\dev\vvv\www\julienliabeuf\htdocs\wp-content\themes" />
+    <option name="cloneParentDir" value="C:\dev\vvv\" />
   </component>
 </application>
