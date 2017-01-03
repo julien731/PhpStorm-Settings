@@ -1,10 +1,10 @@
 <keymap version="1" name="Julien" parent="Default for XWin">
   <action id="ActivateTODOToolWindow" />
   <action id="CommentByBlockComment">
-    <keyboard-shortcut first-keystroke="shift ctrl m" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
   </action>
   <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="shift m" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate">
@@ -15,6 +15,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt add" />
   </action>
   <action id="GotoBookmark6" />
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
