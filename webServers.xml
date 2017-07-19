@@ -37,6 +37,9 @@
       <webServer id="9c4ba04c-d73d-472a-b05c-3f1a4048630f" name="Plugins Dev" url="http://plugins.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="bd1f1ede-4274-4005-808a-8ce8698aa0c7" name="Hugo" url="http://localhost:1313">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
