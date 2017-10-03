@@ -17,7 +17,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7">
-        <phpinfo binary_type="PHP" php_cgi="C:\php\php-cgi.exe" php_cli="C:\php\php.exe" path_separator=";" version="7.0.6">
+        <phpinfo binary_type="PHP" php_cgi="C:\php\php-cgi.exe" php_cli="C:\php\php.exe" path_separator=";" version="7.0.9">
           <additional_php_ini />
           <configuration_file>C:\php\php.ini</configuration_file>
           <configuration_options>
