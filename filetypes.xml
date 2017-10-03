@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Gruntfile" type="JSON" />
       <mapping pattern="class-members-query" type="PHP" />
+      <mapping pattern=".token" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="import" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.old" type="PLAIN_TEXT" />
