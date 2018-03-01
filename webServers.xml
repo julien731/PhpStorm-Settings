@@ -40,6 +40,9 @@
       <webServer id="bd1f1ede-4274-4005-808a-8ce8698aa0c7" name="Hugo" url="http://localhost:1313">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="89dc608e-aebb-4696-96e4-a58a926ac35a" name="Laravel" url="http://localhost:8000/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
