@@ -43,6 +43,9 @@
       <webServer id="89dc608e-aebb-4696-96e4-a58a926ac35a" name="Laravel" url="http://localhost:8000/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f3b3b856-1507-4b64-be02-3a2bb099befc" name="Jekyll" url="http://localhost:4000">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
