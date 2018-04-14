@@ -46,6 +46,9 @@
       <webServer id="f3b3b856-1507-4b64-be02-3a2bb099befc" name="Jekyll" url="http://localhost:4000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="8087238e-6b36-4eb8-941a-1a6dd33f6566" name="Awesome Support (Local)" url="http://awesome-support.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
