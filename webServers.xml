@@ -7,6 +7,9 @@
       <webServer id="6a555934-0c24-4a8c-a217-788828dd1d48" name="VVV" url="http://local.wordpress.test/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="ad55ca60-eb10-4135-a31c-5b7ea6d504f6" name="Jekyll" url="http://localhost:4000">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
