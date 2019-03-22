@@ -10,6 +10,9 @@
       <webServer id="ad55ca60-eb10-4135-a31c-5b7ea6d504f6" name="Jekyll" url="http://localhost:4000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="d0062c43-1186-4e88-9441-4f02b07324de" name="Hugo" url="http://localhost:1313">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
