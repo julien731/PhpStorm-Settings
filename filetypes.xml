@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern=".gitlab-ci-yml" type="YAML" />
-    </extensionMap>
-  </component>
-</application>
