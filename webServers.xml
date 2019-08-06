@@ -13,6 +13,9 @@
       <webServer id="d0062c43-1186-4e88-9441-4f02b07324de" name="Hugo" url="http://localhost:1313">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="2147be31-f4be-4e59-9816-de07ff11ccab" name="Scotchbox" url="http://192.168.33.10/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
