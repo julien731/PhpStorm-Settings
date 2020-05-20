@@ -2,19 +2,22 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="56409c6c-66fb-439b-b1aa-6aaffadbaed3" name="Local" url="http://localhost">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="6a555934-0c24-4a8c-a217-788828dd1d48" name="VVV" url="http://local.wordpress.test/">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="ad55ca60-eb10-4135-a31c-5b7ea6d504f6" name="Jekyll" url="http://localhost:4000">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="d0062c43-1186-4e88-9441-4f02b07324de" name="Hugo" url="http://localhost:1313">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="2147be31-f4be-4e59-9816-de07ff11ccab" name="Scotchbox" url="http://192.168.33.10/">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+      <webServer id="a9a0c87c-dc4d-423d-addb-4558097884d5" name="Homestead" url="http://homestead.test">
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
     </option>
   </component>
