@@ -19,6 +19,9 @@
       <webServer id="a9a0c87c-dc4d-423d-addb-4558097884d5" name="Homestead" url="http://homestead.test">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="5a4619be-8f56-4229-a883-a0c444370ffd" name="Docker" url="http://localhost:8000/">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
